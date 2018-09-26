@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Composerdep\\Test\\": "src/"
+      "Composerdep\\": "src/"
     }
   }
 }

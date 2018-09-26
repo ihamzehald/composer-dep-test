@@ -1,5 +1,5 @@
 <?php
-namespace Composerdep\Test;
+namespace Composerdep;
 
 class CdepTest{
 
